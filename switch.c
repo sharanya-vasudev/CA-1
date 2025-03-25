@@ -18,6 +18,9 @@ int main() {
         case 3:
             printf("B tech in ECE\n");
             break;
+        case 4:
+            printf("B tech in Mechanics\n");
+            break;
         }
         return0;
         }
