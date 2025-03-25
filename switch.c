@@ -12,6 +12,8 @@ int main() {
         case 1:
             printf("B tech in CSE\n");
             break;
+        case 2:
+            printf("B tech in AIML\n");
         }
         return0;
         }
