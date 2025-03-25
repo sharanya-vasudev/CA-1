@@ -21,6 +21,9 @@ int main() {
         case 4:
             printf("B tech in Mechanics\n");
             break;
+        default:
+            printf("Invalid input!\n");
+            break;
         }
         return0;
         }
