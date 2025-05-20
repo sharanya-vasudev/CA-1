@@ -21,6 +21,10 @@ int main() {
         case 4:
             printf("B tech in Mechanics\n");
             break;
+       case 5:
+           printf("B.Tech in ai");
+break;`
+
         default:
             printf("Invalid input!\n");
             break;
