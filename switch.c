@@ -23,7 +23,7 @@ int main() {
             break;
        case 5:
            printf("B.Tech in ai");
-break;`
+           break;`
 
         default:
             printf("Invalid input!\n");
